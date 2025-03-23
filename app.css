@@ -1,0 +1,22 @@
+.f{
+    border: 2px solid black;
+    display: inline-block;
+}
+.a{
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 600px;
+}
+.b{
+    background-color: rgb(117, 186, 117);
+    height: 150px;
+    width: 600px;
+    position: absolute;
+    bottom: 290px;
+}.c{
+    background-color: hsl(0, 100%, 50%);
+    height:150px ;
+    width:600px ;
+    bottom: 140px;
+    position: absolute;
+}
